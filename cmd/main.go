@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "image-editor/internal/server"
 
+func main() {
+	server.Run()
 }

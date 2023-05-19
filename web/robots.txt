@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ping
+
+# http://localhost should be replaced with the site address
+Host: http://localhost
+Sitemap: http://localhost/sitemap.xml

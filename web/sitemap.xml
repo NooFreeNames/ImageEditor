@@ -1,0 +1,7 @@
+<urlset xmlns="www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<!-- http://localhost should be replaced with the site address -->
+		<loc>http://localhost</loc>
+		<changefreg>weekly</changefreg>
+	</url>
+</urlset>
