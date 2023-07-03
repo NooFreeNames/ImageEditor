@@ -1,6 +1,6 @@
 package main
 
-import "image-editor/internal/server"
+import "github.com/NooFreeNames/ImageEditor/internal/server"
 
 func main() {
 	server.Run()
