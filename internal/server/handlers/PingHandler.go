@@ -1,4 +1,3 @@
-// Package handlers provides request handlers for the server package.
 package handlers
 
 import (
